@@ -1,6 +1,6 @@
 # OSS PROJECT PROPOSAL
 ## Team Name : REAL KK
-## Project Name : 야어떨꺼같은데
+## Project Name : 야구마구
 
 
 ## 팀원 
