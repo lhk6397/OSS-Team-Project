@@ -1,0 +1,11 @@
+def read_data(filename):
+    data = []
+    with open(filename, 'r') as f:
+        for line in f:
+            values = []
+            if line.startswith('#'):
+                continue
+            for word in line.split(','):
+                values.append(int(word))
+            data.append(values)
+    return data
